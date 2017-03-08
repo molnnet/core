@@ -1,0 +1,17 @@
+<application>
+  <component name="RecentTaskRepositories">
+    <JIRA shared="true" url="https://jira.molnnet.com">
+    <option name="apiType" value="REST_2_0" />
+    <commitMessageFormat>{id} {summary}</commitMessageFormat>
+    <password>3m0txknqph2nbo2uwgdwkx036dlv625fh0z93zj2x1om2jkvfj</password>
+    <option name="jiraVersion" value="6.3.15" />
+    <option name="loginAnonymously" value="false" />
+    <option name="preferredCloseTaskState" />
+    <option name="preferredOpenTaskState" />
+    <option name="searchQuery" value="assignee = currentUser() and resolution = Unresolved order by updated" />
+    <option name="shouldFormatCommitMessage" value="false" />
+    <option name="useHttpAuthentication" value="true" />
+    <option name="useProxy" value="false" />
+    <username>michael.brown@molnnet.com</username>
+  </component>
+</application>
